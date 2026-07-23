@@ -3,7 +3,7 @@
 **Last updated:** July 23, 2026  
 **Developer:** Bilal Lahbach  
 **App:** LaBDrop (`com.hp.labdrop`)  
-**Contact:** [ADD YOUR EMAIL HERE]
+**Contact:** lhbachbilal@gmail.com
 
 ## Summary
 LaBDrop transfers files over your local WiFi network between phones and computers. It does **not** upload your files to our servers, does **not** create user accounts, and does **not** use ads or trackers for advertising.
